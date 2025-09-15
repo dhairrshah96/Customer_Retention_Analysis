@@ -1,5 +1,4 @@
-# Customer_Retention_Analysis
-Customer Retention Analysis  
+# Customer_Retention_Analysis 
 
 📊 *Retail Case Study (Nov 2024 – Jan 2025)*  
 > An end-to-end analysis of customer retention and repeat purchase behavior using SQL, Python, and Power BI mockups.  
@@ -51,13 +50,13 @@ This project simulates real *Business Analyst / ICT Support work*:
  📊 Preview Visuals  
 
 Cohort Retention Heatmap  
-![Cohort Heatmap](images/cohort_retention_heatmap.png)  
+![Cohort Heatmap](Notebook/images/cohort_retention_heatmap.png)  
 
 Customer Loyalty Split  
-![Loyalty Split](images/loyalty_split_bar.png)  
+![Loyalty Split](Notebook/images/loyalty_split_bar.png)  
 
 Power BI Mock Dashboard  
-![Power BI Dashboard](images/powerbi_mock_dashboard.png)
+![Power BI Dashboard](Notebook/images/powerbi_mock_dashboard.png)
 
 ---
 
